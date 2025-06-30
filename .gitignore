@@ -1,0 +1,11 @@
+.vs/
+.vscode/
+.vsconfig
+Build/*
+Library/*
+Logs/*
+Temp/*
+UserSettings/
+*.meta
+UpgradeLog.htm
+UpgradeLog.htm
