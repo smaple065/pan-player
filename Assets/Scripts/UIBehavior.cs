@@ -17,13 +17,19 @@ public class UIBehavior : MonoBehaviour
             case 0:
                 panType = "Spiderweb Lead";
                 SceneManager.LoadScene("MannetteSpiderwebLead");
+                Debug.Log("Case 0: MannetteSpiderwebLead");
                 break;
-            //case 1: panType = "Double Tenor"; break;
-            case 1:
+            case 1: 
+                panType = "Double Tenor"; 
+                SceneManager.LoadScene("MannetteDoubleTenor");
+                Debug.Log("Case 1: MannetteDoubleTenor");
+                break;
+            case 2:
                 panType = "Double Second";
                 SceneManager.LoadScene("MannetteDoubleSecond");
+                Debug.Log("Case 2: MannetteDoubleSecond");
                 break;
-                //case 2: panType = "Double Second"; break;
+
                 //case 3: panType = "Double Guitar"; break;
                 //case 4: panType = "Triple Guitar"; break;
                 //case 5: panType = "Tenor Bass"; break;
