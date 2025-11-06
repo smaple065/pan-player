@@ -247,6 +247,14 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: -5565131850596529073, guid: 4e20816a792c77b4f9c8d6efb3f04524, type: 3}
+    - target: {fileID: 9093427653144441734, guid: 25adfdafb39289c49b4c0610063a5eda, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 2c87e817dcab2e94ebb1e8f294128a00, type: 3}
+    - target: {fileID: 9093427653144441734, guid: 25adfdafb39289c49b4c0610063a5eda, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 2c87e817dcab2e94ebb1e8f294128a00, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -959,6 +967,14 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 1276296447690246675, guid: 327723c2a406ebc4abdbe96523dceca4, type: 3}
+    - target: {fileID: 9093427653144441734, guid: 25adfdafb39289c49b4c0610063a5eda, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 6a5db2e4e83d5d0458c74cf76e08e3e4, type: 3}
+    - target: {fileID: 9093427653144441734, guid: 25adfdafb39289c49b4c0610063a5eda, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 6a5db2e4e83d5d0458c74cf76e08e3e4, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1456,6 +1472,14 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: -7189626293506197287, guid: e48b37e100178624180dcbab22d88714, type: 3}
+    - target: {fileID: 9093427653144441734, guid: 25adfdafb39289c49b4c0610063a5eda, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: bd4cb7654118d024193ac8be7365a288, type: 3}
+    - target: {fileID: 9093427653144441734, guid: 25adfdafb39289c49b4c0610063a5eda, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: bd4cb7654118d024193ac8be7365a288, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1790,11 +1814,11 @@ PrefabInstance:
     - target: {fileID: 9093427653144441734, guid: 25adfdafb39289c49b4c0610063a5eda, type: 3}
       propertyPath: m_Resource
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 8300000, guid: 458c1b2ae9787ba49912cf99f150ce4e, type: 3}
     - target: {fileID: 9093427653144441734, guid: 25adfdafb39289c49b4c0610063a5eda, type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 8300000, guid: 458c1b2ae9787ba49912cf99f150ce4e, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3107,6 +3131,14 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 6217836172527672081, guid: 552cfaeb040e7884fad7ec40c9952f40, type: 3}
+    - target: {fileID: 9093427653144441734, guid: 25adfdafb39289c49b4c0610063a5eda, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: e8b48a430e63d2249a50f3c6af328b5e, type: 3}
+    - target: {fileID: 9093427653144441734, guid: 25adfdafb39289c49b4c0610063a5eda, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e8b48a430e63d2249a50f3c6af328b5e, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3566,6 +3598,14 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: -6016344602071120030, guid: ee1d144bf77e29f4599d9d8e42c49e00, type: 3}
+    - target: {fileID: 9093427653144441734, guid: 25adfdafb39289c49b4c0610063a5eda, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: d1b3c5ac24a10394fa9ddfc790e70b7b, type: 3}
+    - target: {fileID: 9093427653144441734, guid: 25adfdafb39289c49b4c0610063a5eda, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: d1b3c5ac24a10394fa9ddfc790e70b7b, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3933,6 +3973,14 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 1095270766196007981, guid: 06d0b6af162f6fa47892cc49c97f6c22, type: 3}
+    - target: {fileID: 9093427653144441734, guid: 25adfdafb39289c49b4c0610063a5eda, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 68e37bf9642889f439213774f0be3cd0, type: 3}
+    - target: {fileID: 9093427653144441734, guid: 25adfdafb39289c49b4c0610063a5eda, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 68e37bf9642889f439213774f0be3cd0, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6143,11 +6191,11 @@ PrefabInstance:
     - target: {fileID: 9093427653144441734, guid: 25adfdafb39289c49b4c0610063a5eda, type: 3}
       propertyPath: m_Resource
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 8300000, guid: f863ff5bd26198e4ab008f1dc5cfd774, type: 3}
     - target: {fileID: 9093427653144441734, guid: 25adfdafb39289c49b4c0610063a5eda, type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 8300000, guid: f863ff5bd26198e4ab008f1dc5cfd774, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
